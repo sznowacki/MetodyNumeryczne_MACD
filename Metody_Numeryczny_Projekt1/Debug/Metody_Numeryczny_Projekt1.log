@@ -1,0 +1,6 @@
+﻿  Metody_Numeryczny_Projekt1.cpp
+C:\Users\ssnow\Documents\Visual Studio 2015\Projects\Metody_Numeryczny_Projekt_I\Metody_Numeryczny_Projekt1\Metody_Numeryczny_Projekt1.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ssnow\Documents\Visual Studio 2015\Projects\Metody_Numeryczny_Projekt_I\Metody_Numeryczny_Projekt1\Metody_Numeryczny_Projekt1.cpp(87,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  stdafx.cpp
+  Generating Code...
+  Metody_Numeryczny_Projekt1.vcxproj -> C:\Users\ssnow\Documents\Visual Studio 2015\Projects\Metody_Numeryczny_Projekt_I\Debug\Metody_Numeryczny_Projekt1.exe
